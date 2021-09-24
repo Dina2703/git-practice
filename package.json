@@ -1,0 +1,24 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "testing 1 week lessons",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dina2703/git-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dina2703/git-practice/issues"
+  },
+  "homepage": "https://github.com/Dina2703/git-practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
